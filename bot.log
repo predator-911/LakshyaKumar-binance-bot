@@ -1,0 +1,5 @@
+2025-07-27 06:14:36,195 - INFO - TWAP order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'TWAP', 'price_used': 7.9769, 'quantity': 0.01, 'timestamp': '2025-07-27T06:14:36.195380'}
+2025-07-27 06:14:37,195 - INFO - TWAP order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'TWAP', 'price_used': 7.98, 'quantity': 0.01, 'timestamp': '2025-07-27T06:14:37.195784'}
+2025-07-27 06:14:38,196 - INFO - TWAP order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'TWAP', 'price_used': 7.9855, 'quantity': 0.01, 'timestamp': '2025-07-27T06:14:38.196139'}
+2025-07-27 06:14:39,196 - INFO - TWAP order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'TWAP', 'price_used': 7.9874, 'quantity': 0.01, 'timestamp': '2025-07-27T06:14:39.196615'}
+2025-07-27 06:14:40,197 - INFO - TWAP order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'TWAP', 'price_used': 7.9894, 'quantity': 0.01, 'timestamp': '2025-07-27T06:14:40.197062'}
