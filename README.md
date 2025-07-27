@@ -48,7 +48,7 @@ binance_bot/
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone <https://github.com/predator-911/LakshyaKumar-binance-bot>
 cd binance_bot
 ```
 
